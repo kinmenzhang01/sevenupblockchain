@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "local_node": "nodemon --watch dev -e js dev/networkNode.js 8080 https://sevenupblockchain.herokuapp.com/"
+    "start": "nodemon --watch dev -e js dev/networkNode.js 8080 https://sevenupblockchain.herokuapp.com/"
     
   },
   "author": "",
